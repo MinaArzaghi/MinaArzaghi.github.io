@@ -1,0 +1,12 @@
+remote_theme: miromannino/hilton
+title: Mina arzaghi
+description: this is....
+
+
+navigation:
+  - title: About Me
+    url: /about.html
+  - title: Teaching
+    url: /teaching.html
+  - title: Publications
+    url: /publications.html
