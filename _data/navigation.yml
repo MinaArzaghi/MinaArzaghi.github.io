@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+  - title: Teaching
+    url: /teaching/
