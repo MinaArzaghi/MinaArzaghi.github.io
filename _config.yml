@@ -103,30 +103,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mina Arzaghi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I'm PhD Student in DataScience and my research are about Trustworthy Machine Learning'."
+  location         : "Montreal"
+  email            : "Mina.arzaghi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:mina.arzaghi@gmail.com.com"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "linkedin.com/in/minaarzaghi"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/MinaArzaghi"
 
 # Site Footer
 footer:
