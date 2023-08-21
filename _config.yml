@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : aqua #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mina Arzaghi"
+title                    : "Pe"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
-description              : "PhD Student"
+# description              : "PhD Student"
 url                      : # the base hostname & protocol for your site e.g. "https://MinaArzaghi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mina Arzaghi"
+  # name             : "Mina Arzaghi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm PhD Student in DataScience and my research are about Trustworthy Machine Learning'."
+  bio              : "I'm a PhD Student in DataScience and I teach Machine Learning and Big data courses in HEC Montreal."
   location         : "Montreal"
   email            : "Mina.arzaghi@gmail.com"
   links:
@@ -113,7 +113,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mina.arzaghi@gmail.com.com"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: <i class="fa-brands fa-linkedin"></i>
       url: "linkedin.com/in/minaarzaghi"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -271,15 +271,15 @@ compress_html:
 
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: # true
+#       share: true
+#       related: true
