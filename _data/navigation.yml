@@ -5,4 +5,7 @@ main:
   - title: About Me
     url: /about/
   - title: Teaching
-    url: /https://MinaArzaghi.github.io/teaching/
+    url: /teaching/
+    children:
+      - title: Course 60629_A2023
+        url: /teaching/
