@@ -3,13 +3,17 @@
 ## Évaluation:
 Ca s'en veins :)
 <!-- ## Grading
-<!-- Your final score for the course will be computed using the following weights:
+<!-- Your final score for the course will be computed using the following weights:-->
 
-<!-- - [Homework](homework.md) (20%)-->
-<!-- - [Capsule quizes](homework.md)  (10%)-->
-<!-- - [Project](project.md) (30%)-->
-<!-- - [Project presentation](project.md) (10%)-->
-<!-- - Final Exam (30%)-->
+<!-- - [Devoir](homework.md) (20%)-->
+<!-- - [Quiz](homework.md)  (10%)-->
+<!-- - [Projet](project.md) (30%)-->
+<!-- - [Presentation du projet](project.md) (10%)-->
+<!-- - Examen final (30%)-->
+<!-- -- Date: 12 décembre, Heure: 9h00-12h00,-->
+<!-- -- Documentation permise: une feuille de notes recto-verso (format 8.5 x 11) et une calculatrice.-->
+<!-- -- Matière à examen: tout ce que l'on a vu en classe ainsi que les lectures obligatoires-->
+
 <!-- - * Past exam examples: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf), [Fall 2020](http://www.cs.toronto.edu/~lcharlin/courses/80-629/examen_80629_A20.pdf) (French) -->
 
 ## Politiques sur la Fraude et le Plagiat

@@ -56,7 +56,7 @@ ___
 ___
 5- <span style="font-size:1em;">Séance 5 (le 27 Septembre): **Réseaux de neurones et apprentissage profond**</span> 
 
-- **Lecture**: 
+- **Capsules**: 
   * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_nn.pdf)
   * [From linear classification to neural networks](https://youtu.be/Bs6NA2gGz78) [19:28]
   * [Training neural networks](https://youtu.be/c47a3YxIG7k) [20:14]
@@ -72,7 +72,7 @@ ___
 
 ___
 6- <span style="font-size:1em;">Séance 6 (le 4 Octobre): **Réseaux de neurones récurrents et réseaux de neurones à convolutions**</span> 
-- **Lecture**: 
+- **Capsules**: 
   * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rnn-cnn.pdf)
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
   * [Practical Overview of RNNs](https://youtu.be/2euWyjhO0GM) [29:32]
@@ -92,7 +92,7 @@ ___
 
 ___
 7- <span style="font-size:1em;">Séance 6 (le 11 Octobre): **Apprentissage Non supervisé**</span> 
-- **Lecture**: 
+- **Capsules**: 
   * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_unsupervised.pdf)
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
   * [K-means clustering](https://youtu.be/9EFWKAQ3TSs) [41:58] (there's a natural break at 22:28)
@@ -108,38 +108,46 @@ ___
 8- <span style="font-size:1em;"> Semaine d'étude (le 18 Octobre): **pas de cours** </span> 
 
 ___
-9- <span style="font-size:1em;"> Proposition du projet(le 1 Novembre): **Rencontre en équipe à propos du projet**</span> 
+9- <span style="font-size:1em;"> Proposition du projet(le 25 Octobre): **Rencontre en équipe à propos du projet**</span> 
 
 ___
-10- <span style="font-size:1em;">Week 11 (November 8): **Parallel computational paradigms for large-scale data processing**</span>
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
+10- <span style="font-size:1em;">Séance 7 (le 1 Novembre): **Calcul parallèle pour données massives**</span>
+- **ATENTION:** 
+  * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Capsules**: 
+  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
   * [MapReduce](https://youtu.be/U3FLRYH3R5Q) [17:41]
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]
-
+- **Matériel pour la classe:**:  
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale_fr.pdf)
+  * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm-fr.pdf)
 ___
-11- <span style="font-size:1em;">Week 12 (November 15): **Trustworthy Machine Learning  & Recommender systems**</span> 
-- **Lecture**: [slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/Week12_summary.pdf)
-- **Reading**: Chapters 1 through 4, Aggarwal, Charu C. [Recommender Systems: the Textbook](https://hecmontreal.on.worldcat.org/v2/oclc/946011635). Cham: Springer, 2016
-
+11- <span style="font-size:1em;">Séance 8 (le 8 Novembre): **Systèmes de recommandations**</span> 
+- **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
+- **Matériel pour la classe:**:  
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
+  * Référence (facultative)[Tutoriel sur les systèmes de recommandation](https://github.com/lcharlin/80-629/blob/master/week11-RecommenderSystems/Tutoriel-FR/SRMF%20-%20Questions.ipynb)
 ___
-12- <span style="font-size:1em;">Week 13 (November 22): **Sequential decision making I**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl.pdf)
+12- <span style="font-size:1em;">Séance 9 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
 - **Capsules**: 
+  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl.pdf)
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
   * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
   * [MDP objective](https://youtu.be/3vX-J61A8NQ) [14:16]
   * [Algorithms for solving MDPs](https://youtu.be/HBTyOjt4QBk) [17:51]: Note: In this capsule, there is a mistake in the second equation of the policy iteration algorithm (the transition should be given a and not π(s)), the slides have been corrected (see slides 47 and 48)
-- **Reading**: Optional: [Demo of the policy iteration algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_dp.html) (from Andrej Karpathy)
+
+- **Lecture facultatif**: Optional: [Démonstration de l'algorithme policy iteration](https://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (de Andrej Karpathy)
 
 ___
-13- <span style="font-size:1em;">Séance 12 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
-- **Lecture**: [Dapo](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
+13- <span style="font-size:1em;">Séance 10 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
+- **Lecture**: 
 - **Capsules**: 
+  * [Dapo](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
   * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
   * [RL Algorithms for Control](https://www.youtube.com/watch?v=PeGnFc5S-f4) [21:10]
+
 - **Lectures obligatoires**: Sections 1 à 4 de cet [Article](https://www.jair.org/index.php/jair/article/download/10166/24110/), 
 - **Lectures complementaires**:  Chapiters 1,3,4, et 6 de [Livre](http://incompleteideas.net/book/the-book.html). 
 - **Lectures facultatif**: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (de Andrej Karpathy)
@@ -147,7 +155,7 @@ ___
 - **Exercice**: [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Questions-fr.ipynb), [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution-fr.ipynb)
 
 ___
-14- <span style="font-size:1em;">Séance 13 (le 29 Novembre): **CPrésentations des projets**</span>
+14- <span style="font-size:1em;">Séance 13 (le 29 Novembre): **Présentations des projets**</span>
 * Local: à communiquer
 
 
