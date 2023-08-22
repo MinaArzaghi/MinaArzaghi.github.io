@@ -155,7 +155,7 @@ ___
 - **Exercice**: [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Questions-fr.ipynb), [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution-fr.ipynb)
 
 ___
-14- <span style="font-size:1em;">Séance 13 (le 29 Novembre): **Présentations des projets**</span>
+14- <span style="font-size:1em;">Présentations des projets(le 29 Novembre): **Poster**</span>
 * Local: à communiquer
 
 
