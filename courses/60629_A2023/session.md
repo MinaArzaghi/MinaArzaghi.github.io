@@ -1,18 +1,19 @@
-| [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Thèmes](session.md) | [Évaluation](evaluation.md) |  [Soutien pédagogique](support.md) | [Référence](refrence.md)|
+| [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Calendrier](session.md) | [Évaluation](evaluation.md) |  [Soutien](support.md) | [Référence](refrence.md)|
 
 ___
 1- <span style="font-size:1em;">Séance 1 (le 30 Août): **Introduction au cours et rappels mathématiques**</span>
-- **Lecture**: [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro_fr.pdf)
-- **Reading**: 
+- **Lecture**: 
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro_fr.pdf)
   * **Lecture obligatoire:**[Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
-  * **Lecture suggérée:**[Chapitre 1 de ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  * Rappel mathématique des chapitres [lien](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
+  * **Lecture suggérée:
+    * **[Chapitre 1 de ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+    * Rappel mathématique des chapitres [lien](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
   
 
 ___
 2- <span style="font-size:1em;">Séance 2 (le 6 Septembre): **Machine learning fundamentals**</span> 
-- **Lecture**: [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_ml-fundamentals.pdf)
-- **Capsules**:  
+- **Capsules**: 
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
   * [Types of Experiences](https://youtu.be/bUrw6MWiI7E) [13:15]
   * [A first Supervised Model](https://www.youtube.com/watch?v=fu8IBbPREBg) [8:03]
@@ -20,7 +21,7 @@ ___
   * [Regularization](https://www.youtube.com/watch?v=SFzhFrWOTEI) [4:09]
   * [Model Validation](https://www.youtube.com/watch?v=WoFGyFvyoeo) [3:08]
   * [Bias / Variance tradeoff](https://www.youtube.com/watch?v=L5Hehy9s8SI) [11:50]
-- **Reading**:  
+- **Lecture**:  
   * [Chapter 5 of Deep Learning](http://www.deeplearningbook.org/contents/ml.html). You can skip 5.4 (except 5.4.4) to 5.10.  
   
 ___

@@ -1,5 +1,6 @@
-| [MATH80629](main.md) | [Conditions préalables](prerequisition.md) | [Thèmes](session.md) | [Évaluation](evaluation.md) |  [Soutien pédagogique](support.md) | [Référence](refrence.md)|
+| [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Calendrier](session.md) | [Évaluation](evaluation.md) |  [Soutien](support.md) | [Référence](refrence.md)|
 
+# Soutien pédagogique
 
 ### Heure de bureau
 
