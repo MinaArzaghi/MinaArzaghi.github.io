@@ -1,16 +1,27 @@
-# Teaching
 
-### Apprentissage automatique I 60629 (Fall 2023), HEC Montreal
- + You can find details at [Apprentissage automatique I 60629: Fall 2023](60629_A2023.md)
+| [Home](index.md) | | [About me](aboutme.md) |
 
-## Introduction à l'apprentissage automatique 30636 (Fall 2023), HEC Montreal
+## Teaching 
 
-## Introduction à l'apprentissage automatique 30636 (Summer 2023), HEC Montreal
+**Machine Learning 1 (Fall 2023), HEC Montreal, in French**
 
-## Introduction à l'apprentissage automatique 30636 (Winter 2023), HEC Montreal
+- All materials and details are avaialble at the [Apprentissage automatique I ]().
 
-## Introduction à l'apprentissage automatique 30636 (Fall 2022), HEC Montreal
+**Introduction to Machine Learning 1 (Fall 2023), HEC Montreal, in French**
 
-## Introduction à l'apprentissage automatique 30636 (Summer 2022), HEC Montreal
+**Introduction to Machine Learning 1 (Summer 2023), HEC Montreal, in French**
 
-## Introduction à l'apprentissage automatique 30636 (Winter 2022), HEC Montreal
+**Introduction to Machine Learning 1 (Winter 2023), HEC Montreal, in French**
+
+**Introduction to Machine Learning 1 (Fall 2022), HEC Montreal, in French**
+
+**Introduction to Machine Learning 1 (Summer 2022), HEC Montreal, in French**
+
+**Introduction to Machine Learning 1 (Winter 2022), HEC Montreal, in French**
+
+***Introduction to Machine Learning 1 (Fall 2021), HEC Montreal, in French**
+
+**Introduction to Machine Learning 1 (Summer 2021), HEC Montreal, in French**
+
+**Introduction to Machine Learning 1 (Winter 2021), HEC Montreal, in French**
+
