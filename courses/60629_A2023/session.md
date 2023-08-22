@@ -1,12 +1,12 @@
-| [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Thèmes](session.md) | [Évaluation](evaluation.md) |  [Soutien pédagogique](support.md) | [Référence](refrences.md)|
+| [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Thèmes](session.md) | [Évaluation](evaluation.md) |  [Soutien pédagogique](support.md) | [Référence](refrence.md)|
 
 ___
-1- <span style="font-size:1em;">Séance 1 (August 30): **Class introduction and math review**</span>
-- **Lecture**: [Slides](https://github.com/gfarnadi/gfarnadi.github.io/blob/master/courses/ML/lecture_files/slides_intro.pdf)
+1- <span style="font-size:1em;">Séance 1 (30 Août): **Introduction au cours et rappels mathématiques**</span>
+- **Lecture**: [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro_fr.pdf)
 - **Reading**: 
-  * [Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
-  * [Chapter 1 of ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  * For Math review: Check [here](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
+  * **Lecture obligatoire:**[Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
+  * **Lecture suggérée:**[Chapitre 1 de ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  * Rappel mathématique des chapitres [lien](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
   
 ___
 2- <span style="font-size:1em;">Week 2 (September 6): No class </span>
