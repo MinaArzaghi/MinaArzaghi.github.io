@@ -1,3 +1,3 @@
 | [About me](aboutme.md) | | [Teaching](teaching.md) | 
 
-## PhD Student in
+## PhD Student | Teacher | Data Science Enthusiast
