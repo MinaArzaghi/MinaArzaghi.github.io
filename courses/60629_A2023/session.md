@@ -9,7 +9,7 @@ ___
     * [Chapitre 1 de ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
     * [Rappel d'algèbre linéaire](https://www.deeplearningbook.org/contents/linear_algebra.html)
     * [Rappel de probabilité](https://www.deeplearningbook.org/contents/prob.html)
-    * 
+    
 
 ___
 2- <span style="font-size:1em;">Séance 2 (le 6 Septembre): **Les fondements de l'apprentissage automatiques**</span> 
