@@ -11,4 +11,4 @@
 
 ### Vidéo des cours 
 
-Ils se trouvent dans la page [Thèmes](session.md)
+Ils se trouvent dans la page [Calendrier](session.md)
