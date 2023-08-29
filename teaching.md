@@ -1,5 +1,5 @@
 
-| [Home](index.md) | | [About me](aboutme.md) |
+| [Home](index.md) | | [About me](aboutme.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | 
 
 ## Teaching 
  I have had the privilege of being a course lecturer at HEC Montreal since 2017. In the sections below, you'll discover the specifics of the courses I have had the pleasure of teaching
