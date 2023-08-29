@@ -5,7 +5,7 @@
 ## Analyse des mégadonnées et prise de décision, Automne 2023
 
 
-## Course Description
+## Description du cours
 Bienvenue au cours d'apprentissage automatique I (MATH60629) de HEC Montréal, niveau supérieur . Ceci est la version française du cours MATH60629A
 
 Dans le cadre de  ce cours, nous étudierons les modèles d'apprentissage automatique, un type d'analyse statistique axée sur la prédiction.
