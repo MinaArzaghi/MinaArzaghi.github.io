@@ -38,13 +38,13 @@
      - **Rapport du projet** (1 téléchargement par groupe) 
         Votre rapport doit contenir une **description de la question** à laquelle vous essayez de répondre, une **description claire du modèle/algorithme** que vous étudiez, une **revue des travaux connexes** avec des références appropriées, une **section empirique** qui rend compte de vos résultats, et une **conclusion** qui résume vos découvertes et, le cas échéant, met en évidence les futures orientations possibles de la recherche. 
         Votre rapport ne doit pas dépasser **10 pages** (hors références) pour les binômes ou 13 pages (hors références) pour les **équipes de trois**.
-         
-         **Barème d'évaluation**
-                - Clarté / Pertinence de l'énoncé du problème et description de l'approche : **10 %**
-                - Discussion de la relation avec les travaux précédents et références : **4 %**
-                - Conception et réalisation des expériences : **10 %** 
-                - Figures/Tables/Rédaction : facilement lisibles, correctement étiquetées, * informatives : **5 %**
-                - Rapport individuel : **1 %**     
+        
+        **Barème d'évaluation**
+         - Clarté / Pertinence de l'énoncé du problème et description de l'approche : **10 %**
+         - Discussion de la relation avec les travaux précédents et références : **4 %**
+         - Conception et réalisation des expériences : **10 %** 
+         - Figures/Tables/Rédaction : facilement lisibles, correctement étiquetées, * informatives : **5 %**
+         - Rapport individuel : **1 %**     
     
      - **Rapport individuel** (1 téléchargement par étudinat) 
         Vous soumettrez également un bref rapport individuel (d'au plus une page), qui devra : 
