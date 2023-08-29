@@ -1,6 +1,6 @@
 | [Home](index.md) | | [About me](aboutme.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | 
 
-## Honors and Awards 
+# Honors and Awards 
 
 - **Excellence Scholarship** of CAD 10,000 for PhD, Famille Paul Simard (2023)
 
