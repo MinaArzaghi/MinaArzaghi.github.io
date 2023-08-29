@@ -4,7 +4,7 @@
 # About Me
 
 Hello, I'm Mina Arzaghi, a passionate and dedicated individual with a strong background in Data Science and Machine Learning and Project Management. Currently, I'm pursuing my Ph.D. in 
-Data Science at HEC Montreal under supervision of Prof.(Jean-François Plante)[https://www.hec.ca/en/profs/jfplante.html]. My research focuses on the critical topic of Trustworthy Machine Learning, particularly delving into Algorithmic Fairness within Recommender Systems.
+Data Science at HEC Montreal under supervision of Prof.[Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html). My research focuses on the critical topic of Trustworthy Machine Learning, particularly delving into Algorithmic Fairness within Recommender Systems.
 
 ## Ph.D. Research
 
