@@ -2,10 +2,21 @@
 
 ## Évaluation:
 Ca s'en veins :)
-<!-- ## Grading
-<!-- Your final score for the course will be computed using the following weights:-->
 
-<!-- - [Devoir](homework.md) (20%)-->
+
+ - [Devoir]() (20%)
+    - Date d'Échéance le 24 octobre 2023 à 23h59.
+    - Les devoirs comptent pour 20 % de votre note finale.
+    - Les devoirs doivent être réalisés dans Jupyter Notebook ou dans Google Colab .
+    - **Instructions** :
+        - Veuillez m'envoyer un courriel contenant une version PDF de votre devoir et insérez le lien partageable vers votre cahier.
+        - Les devoirs doivent être complétés individuellement.
+            - La discussion avec d'autres personnes est autorisée, mais vous devez rédiger vos solutions vous-même.
+        - Tout code utilisé pour arriver aux réponses doit être soumis en même temps que les réponses.
+        - **Notes** :
+            - Veuillez fournir vos réponses en code dans le bloc de code sous chaque question, et les réponses verbales dans les zones de texte assignées dans le cahier (si applicable).
+            - Veuillez exécuter le cahier avant la soumission afin que les résultats s'affichent.
+            - Assurez-vous que vos résultats soient reproductibles. Vous pouvez utiliser des graines aléatoires à partir des packages random et numpy. Pour les modules scikit-learn, vous pouvez utiliser l'argument random_state.
 <!-- - [Quiz](homework.md)  (10%)-->
 <!-- - [Projet](project.md) (30%)-->
 <!-- - [Presentation du projet](project.md) (10%)-->
