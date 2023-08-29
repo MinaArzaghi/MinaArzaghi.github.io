@@ -10,6 +10,8 @@ Data Science at HEC Montreal under supervision of Prof.[Jean-François Plante](h
 
 In my Ph.D. journey, I am exploring the intricate landscape of Trustworthy Machine Learning. My primary research interest lies in the realm of Algorithmic Fairness, a crucial aspect of modern machine learning systems. Specifically, I am investigating how to ensure fairness and equity in Recommender Systems, where recommendations play a significant role in influencing user decisions. By identifying and addressing bias and discrimination in these systems, I aim to contribute to the creation of more inclusive and ethical technology.
 
+Currently, I am further expanding my expertise as a Research Intern at [Mila](https://mila.quebec/en/), working under the guidance of Prof.[Golnoosh Farnadi](https://gfarnadi.github.io/). My focus lies in addressing ethical challenges within conversational recommender systems, where I am delving into the intricacies of ensuring responsible and unbiased AI-driven interactions. 
+
 ## Professional Background
 
 Before pursuing my Ph.D., I had the privilege to work in the real-world application of Data Science. As an R&D Data Scientist in a Financial Organization, I had the opportunity to tackle the intricate challenges of algorithmic fairness within tabular data. This experience allowed me to bridge the gap between academic research and practical implementation, honing my skills in turning data-driven insights into tangible solutions.
