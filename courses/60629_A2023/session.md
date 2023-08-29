@@ -7,7 +7,8 @@ ___
   * **Lecture obligatoire:**[Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
   * **Lecture suggérée:**
     * 1. [Chapitre 1 de ESL](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-    * 2. [Rappel mathématique des chapitres](http://www.cs.toronto.edu/~lcharlin/courses/80-629/math_resources.html)
+    * 2. [Rappel d'algèbre linéaire](https://www.deeplearningbook.org/contents/linear_algebra.html)
+    * 3. [Rappel de probabilité][https://www.deeplearningbook.org/contents/prob.html]
   
 
 ___
@@ -159,3 +160,6 @@ ___
 * Local: à communiquer
 
 
+
+
+[def]: https://www.deeplearningbook.org/contents/prob.htmlS
