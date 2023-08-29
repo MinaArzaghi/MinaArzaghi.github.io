@@ -76,7 +76,7 @@
 
 - **Examen final (30%)**
     - Consultez HEC Enligne pour les details
-    - Ancien examen final: [Fall 2018](http://www.cs.toronto.edu/~lcharlin/courses/80-629/exam_80629_A18.pdf)
+    - Ancien examen final: [Fall 2018](https://davoodwadi.github.io/exam_80629_A18.pdf)
 
 
 
