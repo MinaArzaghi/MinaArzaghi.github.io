@@ -4,13 +4,13 @@
 # About Me
 
 Hello, I'm Mina Arzaghi, a passionate and dedicated individual with a strong background in Data Science and Machine Learning and Project Management. Currently, I'm pursuing my Ph.D. in 
-Data Science at HEC Montreal under supervision of Prof.[Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html). My research focuses on the critical topic of Trustworthy Machine Learning, particularly delving into Algorithmic Fairness within Recommender Systems.
+Data Science at HEC Montreal under supervision of Prof. [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html). My research focuses on the critical topic of Trustworthy Machine Learning, particularly delving into Algorithmic Fairness within Recommender Systems.
 
 ## Ph.D. Research
 
 In my Ph.D. journey, I am exploring the intricate landscape of Trustworthy Machine Learning. My primary research interest lies in the realm of Algorithmic Fairness, a crucial aspect of modern machine learning systems. Specifically, I am investigating how to ensure fairness and equity in Recommender Systems, where recommendations play a significant role in influencing user decisions. By identifying and addressing bias and discrimination in these systems, I aim to contribute to the creation of more inclusive and ethical technology.
 
-Currently, I am further expanding my expertise as a Research Intern at [Mila](https://mila.quebec/en/), working under the guidance of Prof.[Golnoosh Farnadi](https://gfarnadi.github.io/). My focus lies in addressing ethical challenges within conversational recommender systems, where I am delving into the intricacies of ensuring responsible and unbiased AI-driven interactions. 
+Currently, I am further expanding my expertise as a Research Intern at [Mila](https://mila.quebec/en/), working under the guidance of Prof. [Golnoosh Farnadi](https://gfarnadi.github.io/). My focus lies in addressing ethical challenges within conversational recommender systems, where I am delving into the intricacies of ensuring responsible and unbiased AI-driven interactions. 
 
 ## Professional Background
 
