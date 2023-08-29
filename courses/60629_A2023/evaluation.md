@@ -40,11 +40,11 @@
         Votre rapport ne doit pas dépasser **10 pages** (hors références) pour les binômes ou 13 pages (hors références) pour les **équipes de trois**.
          
          **Barème d'évaluation**
-                - Clarté / Pertinence de l'énoncé du problème et description de l'approche : 10 %
-                - Discussion de la relation avec les travaux précédents et références : 4 %
-                - Conception et réalisation des expériences : 10 % 
-                - Figures/Tables/Rédaction : facilement lisibles, correctement étiquetées, * informatives : 5 %
-                - Rapport individuel : 1 %     
+                - Clarté / Pertinence de l'énoncé du problème et description de l'approche : **10 %**
+                - Discussion de la relation avec les travaux précédents et références : **4 %**
+                - Conception et réalisation des expériences : **10 %** 
+                - Figures/Tables/Rédaction : facilement lisibles, correctement étiquetées, * informatives : **5 %**
+                - Rapport individuel : **1 %**     
     
      - **Rapport individuel** (1 téléchargement par étudinat) 
         Vous soumettrez également un bref rapport individuel (d'au plus une page), qui devra : 
