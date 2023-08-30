@@ -123,12 +123,14 @@ ___
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale_fr.pdf)
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm-fr.pdf)
+
 ___
 11- <span style="font-size:1em;">Séance 8 (le 8 Novembre): **Systèmes de recommandations**</span> 
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
   * Référence (facultative)[Tutoriel sur les systèmes de recommandation](https://github.com/lcharlin/80-629/blob/master/week11-RecommenderSystems/Tutoriel-FR/SRMF%20-%20Questions.ipynb)
+
 ___
 12- <span style="font-size:1em;">Séance 9 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
 - **Capsules**: 
@@ -139,6 +141,7 @@ ___
   * [Algorithms for solving MDPs](https://youtu.be/HBTyOjt4QBk) [17:51]: Note: In this capsule, there is a mistake in the second equation of the policy iteration algorithm (the transition should be given a and not π(s)), the slides have been corrected (see slides 47 and 48)
 
 - **Lecture facultatif**: Optional: [Démonstration de l'algorithme policy iteration](https://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (de Andrej Karpathy)
+
 
 ___
 13- <span style="font-size:1em;">Séance 10 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
