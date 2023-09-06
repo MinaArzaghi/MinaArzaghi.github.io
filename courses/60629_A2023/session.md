@@ -32,7 +32,7 @@ ___
 ___
 3- <span style="font-size:1em;">Séance 3 (le 13 Septembre): **Modèles d'apprentissage supervisé**</span> 
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_supervised.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_supervised.pdf)
   * [Nearest Neighbor](https://youtu.be/wrpB9mxmhJc) [19:05]
   * [Linear Classification](https://youtu.be/Kv8Ab2I_7CM) [15:26]
   * [Introduction to Probabilistic Models (for Classification)](https://youtu.be/CnJTkeJpJLY) [11:55]
@@ -58,7 +58,7 @@ ___
 5- <span style="font-size:1em;">Séance 5 (le 27 Septembre): **Réseaux de neurones et apprentissage profond**</span> 
 
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_nn.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_nn.pdf)
   * [From linear classification to neural networks](https://youtu.be/Bs6NA2gGz78) [19:28]
   * [Training neural networks](https://youtu.be/c47a3YxIG7k) [20:14]
   * [Learning representations](https://youtu.be/N_JU7egyGGA)  [13:40]
@@ -74,7 +74,7 @@ ___
 ___
 6- <span style="font-size:1em;">Séance 6 (le 4 Octobre): **Réseaux de neurones récurrents et réseaux de neurones à convolutions**</span> 
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rnn-cnn.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
   * [Practical Overview of RNNs](https://youtu.be/2euWyjhO0GM) [29:32]
   * [RNNs for language modelling](https://youtu.be/K-l8zCBuJbM) [15:13]
@@ -94,7 +94,7 @@ ___
 ___
 7- <span style="font-size:1em;">Séance 6 (le 11 Octobre): **Apprentissage Non supervisé**</span> 
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_unsupervised.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
   * [K-means clustering](https://youtu.be/9EFWKAQ3TSs) [41:58] (there's a natural break at 22:28)
   * [GMMs for clustering](https://youtu.be/OyK4tX2hjMc) [17:52]
@@ -116,7 +116,7 @@ ___
 - **ATENTION:** 
   * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_largeScale.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
   * [MapReduce](https://youtu.be/U3FLRYH3R5Q) [17:41]
   * [Spark](https://www.youtube.com/watch?v=4gOdejqyHng) [17:37]

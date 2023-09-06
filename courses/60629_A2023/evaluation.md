@@ -8,6 +8,7 @@
     - Date d'Échéance le **24 octobre** 2023 à 23h59.
     - Les devoirs comptent pour **20 %** de votre note finale.
     - Les devoirs doivent être réalisés dans Jupyter Notebook ou dans Google Colab .
+    - **Les devoirs doivent être effectués sur Google Colab [ici](https://colab.research.google.com/drive/10S1rz7aA5B1TWZHAPR9UqoXNaiIA0GGi#scrollTo=2b3YoSN-iEEw)**.
     
     - **Instructions** :
         - Veuillez m'envoyer un courriel contenant une version PDF de votre devoir et insérez le lien partageable vers votre cahier.
