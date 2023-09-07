@@ -134,7 +134,7 @@ ___
 ___
 12- <span style="font-size:1em;">Séance 9 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
 - **Capsules**: 
-  * [Slides](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl.pdf)
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
   * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
   * [MDP objective](https://youtu.be/3vX-J61A8NQ) [14:16]
@@ -147,7 +147,7 @@ ___
 13- <span style="font-size:1em;">Séance 10 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
 - **Lecture**: 
 - **Capsules**: 
-  * [Dapo](http://www.cs.toronto.edu/~lcharlin/courses/80-629/slides_rl2.pdf)
+  * [Dapo](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
   * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
   * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
   * [RL Algorithms for Control](https://www.youtube.com/watch?v=PeGnFc5S-f4) [21:10]
