@@ -52,9 +52,7 @@ ___
 
 - **Lecture**: 
   * [Tutorial](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction%20pratique%20a%20l'apprentissage%20automatique.ipynb)
-  <!-- Solution
-  * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction%20pratique%20a%20l'apprentissage%20automatique_Solutions.ipynb
-  -->
+  * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction%20pratique%20a%20l'apprentissage%20automatique_Solutions.ipynb)
 
 ___
 5- <span style="font-size:1em;">Séance 5 (le 27 Septembre): **Réseaux de neurones et apprentissage profond**</span> 
