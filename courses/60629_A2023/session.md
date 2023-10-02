@@ -69,9 +69,7 @@ ___
 - **Matériel pour la classe:**:  
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_nn_summary_fr.pdf)
   * [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_questions_fr.ipynb)
-  <!-- Solution
-  * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers_fr.ipynb
-  -->
+  * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers_fr.ipynb)
 
 ___
 6- <span style="font-size:1em;">Séance 6 (le 4 Octobre): **Réseaux de neurones récurrents et réseaux de neurones à convolutions**</span> 
