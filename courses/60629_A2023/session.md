@@ -81,7 +81,7 @@ ___
   * [Overview of CNNs](https://youtu.be/EVZOThR2q1I) [13:30]
   * [Convolutions and Pooling](https://youtu.be/L8tbxFKKoVw) [26:00]
   * [Conclusions and Practical remarks](https://youtu.be/mA71uUtkcXw) [9:17]
-- **Lecture obligatoire**: Sections 10, 10.1, 10.2 (survoler 10.2.2, sauter 10.2.3) et 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 pour le plaisir). Les deux venant de [DL](http://www.deeplearningbook.org/contents/mlp.html)
+- **Lecture obligatoire**: Sections 10, 10.1, 10.2 (survoler 10.2.2, sauter 10.2.3) et 10.7. Sections 9, 9.1, 9.2, 9.3 (9.11 pour le plaisir). Les deux venant de [DL](https://www.deeplearningbook.org/)
 - **Matériel pour la classe:**:  
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn_summary_fr.pdf)
   * [Exercices_RNNs](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week6-RNNs%2BCNNs/RNNs_Questions_fr.ipynb)
