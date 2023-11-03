@@ -92,7 +92,7 @@ ___
 
 
 ___
-7- <span style="font-size:1em;">Séance 6 (le 11 Octobre): **Apprentissage Non supervisé**</span> 
+7- <span style="font-size:1em;">Séance 7 (le 11 Octobre): **Apprentissage Non supervisé**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
@@ -112,7 +112,7 @@ ___
 9- <span style="font-size:1em;"> Proposition du projet(le 25 Octobre): **Rencontre en équipe à propos du projet**</span> 
 
 ___
-10- <span style="font-size:1em;">Séance 7 (le 1 Novembre): **Calcul parallèle pour données massives**</span>
+10- <span style="font-size:1em;">Séance 8 (le 1 Novembre): **Calcul parallèle pour données massives**</span>
 - **ATENTION:** 
   * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Capsules**: 
@@ -125,14 +125,14 @@ ___
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm-fr.pdf)
 
 ___
-11- <span style="font-size:1em;">Séance 8 (le 8 Novembre): **Systèmes de recommandations**</span> 
+11- <span style="font-size:1em;">Séance 9 (le 8 Novembre): **Systèmes de recommandations**</span> 
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
   * Référence (facultative)[Tutoriel sur les systèmes de recommandation](https://github.com/lcharlin/80-629/blob/master/week11-RecommenderSystems/Tutoriel-FR/SRMF%20-%20Questions.ipynb)
 
 ___
-12- <span style="font-size:1em;">Séance 9 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
+12- <span style="font-size:1em;">Séance 10 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
   * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
@@ -144,7 +144,7 @@ ___
 
 
 ___
-13- <span style="font-size:1em;">Séance 10 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
+13- <span style="font-size:1em;">Séance 11 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
 - **Lecture**: 
 - **Capsules**: 
   * [Dapo](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
