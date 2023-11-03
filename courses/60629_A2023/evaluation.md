@@ -28,7 +28,7 @@
 
         Votre étude devrait impliquer la lecture et la compréhension de documents de référence. Votre étude doit également inclure l'exécution d'expériences. Vous êtes libre d'utiliser (ou non) les outils ou les modèles que nous avons vus en classe.
     
-     - **Plan d'étude** (1 téléchargement par groupe) 
+     - **Plan d'étude (10% de 30%)** (1 téléchargement par groupe) 
         Veuillez m'envoyer par courriel un résumé d'une page de votre question de recherche proposée et de votre étude. 
         
         Par la suit, je rencontrerai chaque groupe pour discuter des plans d'étude pendant la séance de cours du **25 Octobre**. 
@@ -36,7 +36,7 @@
         
         Nous aurons probablement seulement environ 15 minutes, veuillez donc vous assurer que votre plan d'étude est clair et précis. Vous pouvez également inclure des questions que vous aimeriez que nous discutions à la fin du document.
 
-     - **Rapport du projet** (1 téléchargement par groupe) 
+     - **Rapport du projet (85% de 30%)** (1 téléchargement par groupe) 
         Votre rapport doit contenir une **description de la question** à laquelle vous essayez de répondre, une **description claire du modèle/algorithme** que vous étudiez, une **revue des travaux connexes** avec des références appropriées, une **section empirique** qui rend compte de vos résultats, et une **conclusion** qui résume vos découvertes et, le cas échéant, met en évidence les futures orientations possibles de la recherche. 
         Votre rapport ne doit pas dépasser **10 pages** (hors références) pour les binômes ou 13 pages (hors références) pour les **équipes de trois**.
         
@@ -47,7 +47,7 @@
          - Figures/Tables/Rédaction : facilement lisibles, correctement étiquetées, * informatives : **5 %**
          - Rapport individuel : **1 %**     
     
-     - **Rapport individuel** (1 téléchargement par étudinat) 
+     - **Rapport individuel (5% de 30%)** (1 téléchargement par étudinat) 
         Vous soumettrez également un bref rapport individuel (d'au plus une page), qui devra : 
         - (1) Décrire les parties du projet sur lesquelles vous avez travaillé (quelles méthodes d'apprentissage automatique vous avez appliquées, quelles étapes de prétraitement vous avez effectuées sur les données, quelles parties du travail écrit vous avez rédigées, avec qui vous avez collaboré sur quelles parties, etc.) et quelles parties du projet vos coéquipiers ont travaillé. 
         - (2) Ce que vous avez appris du projet. Le but du rapport individuel est de faciliter l'évaluation équitable et de permettre à l'instructeur de bien comprendre ce que vous avez appris du projet.
