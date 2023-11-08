@@ -128,7 +128,7 @@ ___
 11- <span style="font-size:1em;">Séance 9 (le 8 Novembre): **Systèmes de recommandations**</span> 
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
-  * [Diapos]()
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
   * Référence (facultative)[Tutoriel sur les systèmes de recommandation](https://github.com/lcharlin/80-629/blob/master/week11-RecommenderSystems/Tutoriel-FR/SRMF%20-%20Questions.ipynb)
 
 ___
