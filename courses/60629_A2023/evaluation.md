@@ -57,10 +57,11 @@
         - Plan d'étude, date limite : le **23 octobre**  au plus tard 23h59
             - Remise des travaux : Via courriel
         - Réunion de projet, **25 octobre**
-        - Présentation du projet, date limite : le **22 Novembre**. 
+        - Postor du projet, date limite : le **26 Novembre**. 
             - Remise des travaux : Via courriel 
-            - PDF de votre affiche/diapositives.
+            - PDF de votre postor.
         - Présentation en classe, le **29 novembre**.
+        - Raport du projet, le **7 décembre**.
         - Rapport individuel final, date limite : le **15 décembre** au plus tard 23h59
             - Remise des travaux : Via courriel (par chaque membre de l'équipe).
 
@@ -77,9 +78,8 @@
     - Ancien examen final: [Fall 2018](https://davoodwadi.github.io/exam_80629_A18.pdf)
 
 
-
 - **[Quiz]()  (10%)**
-    Ca s'en veins :)
+    6 quiz :)
 
 
 ## Politiques sur la Fraude et le Plagiat
