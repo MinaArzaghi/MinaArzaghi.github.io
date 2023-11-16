@@ -81,8 +81,13 @@
 - **Quiz (10%)**
     6 quiz :)
 
-- **Devoir Facultatif(5% bonus)**
-   - une resumé de demis page sur **Bias Algorithmic** avec une exemple personlalisé
+- **Devoir Facultatif (Bonus de 5%)**
+   - une resumé de demis page sur **Biais Algorithmique** avec une exemple personlalisé.
+   - L'exemple peut être l'impact du biais algorithmique sur votre vie personnelle.
+   - La date du remise **le 19 decembre à 23h**.
+   - N'oubliez pas qeu ce devoir est **FACULATIF** :)
+ 
+     
 ## Politiques sur la Fraude et le Plagiat
 
  HEC Montréal a une politique stricte en cas de fraude ou de plagiat. En cas d'infraction, le professeur doit faire un signalement auprès du directeur du département. Une procédure administrative est alors automatiquement enclenchée avec les conséquences suivantes : l'infraction est enregistrée dans votre dossier et une sanction est décidée (qui peut être grave et aller jusqu'au renvoi en cas de récidive). Il est essentiel que vous réalisiez le travail par vous-même !
