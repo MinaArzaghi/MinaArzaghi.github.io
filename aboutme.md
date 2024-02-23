@@ -8,9 +8,6 @@ Hello, I'm Mina Arzaghi, a Ph.D. student in Data Science at HEC Montreal, specia
 
 <!-- ## Ph.D. Research-->
 
-
-Currently, I am further expanding my expertise as a Research Intern at [Mila](https://mila.quebec/en/), working under the guidance of Prof. [Golnoosh Farnadi](https://gfarnadi.github.io/). My focus lies in addressing ethical challenges within conversational recommender systems, where I am delving into the intricacies of ensuring responsible and unbiased AI-driven interactions. 
-
 ## Professional Background
 
 Before starting my Ph.D., I worked as an R&D Data Scientist in the finance sector, focusing on algorithmic fairness, particularly with structured data. This role helped me understand how to apply academic theories to real-world problems and enhanced my ability to transform complex data into actionable solutions.
@@ -19,7 +16,7 @@ Additionally, I have a background in project management, particularly in large-s
 
 ## Teaching and Academic Engagement
 
-My journey in the world of Data Science extends beyond research and into education. Since 2017, I have been fortunate to serve as a lecturer at HEC Montreal. I have had the privilege of teaching and developping Data Science and Machine Learning courses to both undergraduate and graduate students. Guiding and inspiring the next generation of data scientists has been an incredibly rewarding experience, and I continue to foster a passion for learning and discovery within my students.
+My journey in the world of Data Science extends beyond research and into education. Since 2017, I have been fortunate to serve as a lecturer at HEC Montreal. I have had the privilege of teaching and developping Data Science and Machine Learning courses to both undergraduate and graduate students.
 
 ## Connect with Me
 
