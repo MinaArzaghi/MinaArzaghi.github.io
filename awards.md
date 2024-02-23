@@ -2,7 +2,7 @@
 
 # Honors and Awards 
 
-- **Excellence award in Teaching** for teaching Machine Learning course at HEC Montreal, PhD program of Hec Montreal (2023)
+- **Excellence Award in Teaching** for teaching Machine Learning course at HEC Montreal, PhD program of Hec Montreal (2023)
   
 - **Excellence Scholarship**  for PhD, Famille Paul Simard (2023)
 
