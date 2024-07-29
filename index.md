@@ -1,4 +1,4 @@
-| [Home](index.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | 
+| [Home](index.md) || [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
 
 ## PhD Candidate | Data Scientist | Teacher 
 
