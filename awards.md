@@ -1,4 +1,4 @@
-| [Home](index.md) | | [About me](aboutme.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
+| [Home](index.md) || [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
 
 # Honors and Awards 
 
