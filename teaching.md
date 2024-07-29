@@ -4,6 +4,8 @@
 # Teaching 
  I have had the privilege of being a course lecturer at HEC Montreal since 2017. In the sections below, you'll discover the specifics of the courses I have had the pleasure of teaching
 
+**Introduction to Machine Learning 1 (summer 2024), HEC Montreal**
+ 
 **Introduction to Machine Learning 1 (Winter 2024), HEC Montreal**
 
 **Machine Learning 1 (Fall 2023), HEC Montreal, in French**
