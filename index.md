@@ -4,7 +4,7 @@
 
 
 # About Me
-Hello, I'm Mina Arzaghi, a Ph.D. candidate in Data Science at HEC Montreal, specializing in Algorithmic Fairness. Under the expert guidance of Prof. [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html) and Prof. [Golnoosh Farnadi](https://gfarnadi.github.io/), my research focuses on Algorithmic Fairness within Large Language Models. With several years of experience teaching data science courses, especially machine learning, and a background as a data scientist in the financial field, I bring a practical and informed perspective to my academic research.
+Hello, I'm Mina Arzaghi, a Ph.D. candidate in Data Science at HEC Montreal and MILA (Quebec AI Institute), specializing in Trustworthy Machine Learning. Under the expert guidance of Prof. [Jean-François Plante](https://www.hec.ca/en/profs/jfplante.html) and Prof. [Golnoosh Farnadi](https://gfarnadi.github.io/), my research focuses on Algorithmic Fairness within Large Language Models. With several years of experience teaching data science courses, especially machine learning, and a background as a data scientist in the financial field, I bring a practical and informed perspective to my academic research.
 
 
 
