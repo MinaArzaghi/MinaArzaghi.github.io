@@ -2,6 +2,10 @@
 
 # Honors and Awards 
 
+- **Travel fund** for WiML workshop NeurIPS (2024)
+
+- **Travel fund** for AIES Conference (2024)
+  
 - **Excellence Award in Teaching** for Teaching Machine Learning Course, PhD Program of HEC Montreal (2023)
   
 - **Excellence Scholarship**  for PhD, Famille Paul Simard (2023)
