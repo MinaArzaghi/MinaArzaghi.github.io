@@ -2,7 +2,7 @@
 
 
 # Apprentissage automatique I  MATH 60629: 
-## Analyse des mégadonnées et prise de décision, Automne 2023
+## Analyse des mégadonnées et prise de décision, Automne 2025
 
 
 ## Description du cours
@@ -19,13 +19,13 @@ Le déroulement du cours sera basé sur une approche d'[apprentissage inversé](
 
 ## Horaire:
 - **Mercredi 8h30 à 11h30**
-- à la salle **Forestville** de l'édifice **Decelles** 
+- à la salle **Tkaronto** de l'édifice **Côte-Sainte-Catherine** 
 
 Pour plus d'informations concernant les séances de cours, veuillez vous référer à [HEC ENLINGE](https://enligne.hec.ca/psp/GAPET/HEL/HRMS/?cmd=login&languageCd=CFR)
 
 
 ## Référence
-La majorité des matériaux pédagogiques de ce cours sont basés sur les éditions précédentes de ce cours enseignées par [prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/courses/60629/index_fr.html), et [prof. Golnoosh Farnadi](https://gfarnadi.github.io/courses/MLW2023/main.html).
+La majorité des matériaux pédagogiques de ce cours sont basés sur les éditions précédentes de ce cours enseignées par [prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/courses/60629/), et [prof. Golnoosh Farnadi](https://gfarnadi.github.io/courses/MLW2023/main.html).
 
 
  
