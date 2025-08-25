@@ -6,7 +6,7 @@
 
 - Jour: Mercredi
 - Heure: 13h00 - 14h00
-- Salle: 4.296  (CSC)
+- Salle: 4.818  (CSC)
 
 
 ### Vidéo des cours 
