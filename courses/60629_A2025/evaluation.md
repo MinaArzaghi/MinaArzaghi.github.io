@@ -5,13 +5,13 @@
 
 
  - **[Devoir]() (20%)**
-    - Date d'Échéance le **24 octobre** 2023 à 23h59.
+    - Date d'Échéance le **24 octobre** 2024 à 23h59.
     - Les devoirs comptent pour **20 %** de votre note finale.
     - Les devoirs doivent être réalisés dans Jupyter Notebook ou dans Google Colab .
-    - **Les devoirs doivent être effectués sur Google Colab [ici](https://colab.research.google.com/drive/10S1rz7aA5B1TWZHAPR9UqoXNaiIA0GGi#scrollTo=2b3YoSN-iEEw)**.
+    - **Les devoirs doivent être effectués sur Google Colab [ici]## <!-- (https://colab.research.google.com/drive/10S1rz7aA5B1TWZHAPR9UqoXNaiIA0GGi#scrollTo=2b3YoSN-iEEw)**. -->
     
     - **Instructions** :
-        - Veuillez m'envoyer un courriel contenant une version PDF de votre devoir et insérez le lien partageable vers votre cahier.
+        <!-- - Veuillez m'envoyer un courriel contenant une version PDF de votre devoir et insérez le lien partageable vers votre cahier. -->
         - Les devoirs doivent être complétés individuellement.
             - La discussion avec d'autres personnes est autorisée, mais vous devez rédiger vos solutions vous-même.
         - Tout code utilisé pour arriver aux réponses doit être soumis en même temps que les réponses.
@@ -56,13 +56,13 @@
         - Inscription des équipes, date limite : **1er octobre**, par courriel
         - Plan d'étude, date limite : le **23 octobre**  au plus tard 23h59
             - Remise des travaux : Via courriel
-        - Réunion de projet, **25 octobre**
+        - Réunion de projet, **29 octobre**
         - Postor du projet, date limite : le **26 Novembre**. 
-            - Remise des travaux : Via courriel 
+            - Remise des travaux : Via Zone Cours
             - PDF de votre postor.
-        - Présentation en classe, le **29 novembre**.
-        - Raport du projet, le **7 décembre**.
-        - Rapport individuel final, date limite : le **15 décembre** au plus tard 23h59
+        - Présentation en classe, le **3 décembre**.
+        - Raport du projet, le **10 décembre**.
+        - Rapport individuel final, date limite : le **10 décembre** au plus tard 23h59
             - Remise des travaux : Via courriel (par chaque membre de l'équipe).
 
  - **Présentation du projet  (10%)**
@@ -78,15 +78,10 @@
     - Ancien examen final: [Fall 2018](https://davoodwadi.github.io/exam_80629_A18.pdf)
 
 
-- **Quiz (10%)**
-    6 quiz :)
-
-- **Devoir Facultatif (Bonus de 5%)**
-   - une resumé de demis page sur **Biais Algorithmique** avec une exemple personlalisé.
-   - L'exemple peut être l'impact du biais algorithmique sur votre vie personnelle.
-   - La date du remise **le 19 decembre à 23h**.
-   - N'oubliez pas qeu ce devoir est **FACULATIF** :)
- 
+- **Résumés de capsules (10 %)**
+ - Rédiger un court résumé (10 à 15 lignes de texte dans le formulaire) pour 10 capsules au cours du semestre.
+ - Le résumé d’une capsule doit être soumis avant le cours correspondant (par exemple, le résumé de la capsule « Problèmes d’apprentissage (Learning Probleme) » doit être remis au plus tard le 03/09).
+- Déposez vos résumés / partire de Zone Cours
      
 ## Politiques sur la Fraude et le Plagiat
 
