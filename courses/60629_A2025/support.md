@@ -6,7 +6,7 @@
 
 - Jour: Mercredi
 - Heure: 13h00 - 14h00
-- Salle: 6.296  (de l'édifice Decelles)
+- Salle: 4.296  (CSC)
 
 
 ### Vidéo des cours 
