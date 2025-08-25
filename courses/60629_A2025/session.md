@@ -1,7 +1,7 @@
 | [MATH80629](main.md) | [Prérequis](prerequisition.md) | [Calendrier](session.md) | [Évaluation](evaluation.md) |  [Soutien](support.md) | [Référence](refrence.md)|
 
 ___
-1- <span style="font-size:1em;">Séance 1 (le 30 Août): **Introduction au cours et rappels mathématiques**</span>
+1- <span style="font-size:1em;">Séance 1 (le 27 Août): **Introduction au cours et rappels mathématiques**</span>
 - **Lecture**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_intro_fr.pdf)
   * **Lecture obligatoire:**[Prologue to The Master Algorithm](http://homes.cs.washington.edu/~pedrod/Prologue.pdf)
@@ -12,7 +12,7 @@ ___
     
 
 ___
-2- <span style="font-size:1em;">Séance 2 (le 6 Septembre): **Les fondements de l'apprentissage automatiques**</span> 
+2- <span style="font-size:1em;">Séance 2 (le 3 Septembre): **Les fondements de l'apprentissage automatiques**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_ml-fundamentals.pdf)
   * [Learning Problem](https://youtu.be/XHjYLAooCQI) [14:40]
@@ -30,7 +30,7 @@ ___
   * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week2-Fundamentals/Fundamentals_answers_fr.ipynb)
   
 ___
-3- <span style="font-size:1em;">Séance 3 (le 13 Septembre): **Modèles d'apprentissage supervisé**</span> 
+3- <span style="font-size:1em;">Séance 3 (le 10 Septembre): **Modèles d'apprentissage supervisé**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_supervised.pdf)
   * [Nearest Neighbor](https://youtu.be/wrpB9mxmhJc) [19:05]
@@ -45,7 +45,7 @@ ___
   * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week3-Supervised/Supervised_answers_fr.ipynb)
 
 ___
-4- <span style="font-size:1em;">Séance 4 (le 20 Septembre): **Python pour la programmation scientifique et pour l'apprentissage automatique [Séance pratique]**</span> 
+4- <span style="font-size:1em;">Séance 4 (le 17 Septembre): **Python pour la programmation scientifique et pour l'apprentissage automatique [Séance pratique]**</span> 
 - **ATENTION:** 
   * Pour cette séance pratique, il est obligatoire d'avoir un ordinateur portable!
   * Je vous recommande de démarrer le tutoriel la semaine avant le cours et de le terminer pendant le cours.
@@ -55,7 +55,7 @@ ___
   * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week4-PracticalSession/Introduction%20pratique%20a%20l'apprentissage%20automatique_Solutions.ipynb)
 
 ___
-5- <span style="font-size:1em;">Séance 5 (le 27 Septembre): **Réseaux de neurones et apprentissage profond**</span> 
+5- <span style="font-size:1em;">Séance 5 (le 24 Septembre): **Réseaux de neurones et apprentissage profond**</span> 
 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_nn.pdf)
@@ -72,7 +72,7 @@ ___
   * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week5-NeuralNetworks/Neural_Networks_answers_fr.ipynb)
 
 ___
-6- <span style="font-size:1em;">Séance 6 (le 4 Octobre): **Réseaux de neurones récurrents et réseaux de neurones à convolutions**</span> 
+6- <span style="font-size:1em;">Séance 6 (le 1 Octobre): **Réseaux de neurones récurrents et réseaux de neurones à convolutions**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rnn-cnn.pdf)
   * [Modelling Sequential Data](https://youtu.be/Ra_n9vJ89wM) [8:42]
@@ -92,7 +92,7 @@ ___
 
 
 ___
-7- <span style="font-size:1em;">Séance 7 (le 11 Octobre): **Apprentissage Non supervisé**</span> 
+7- <span style="font-size:1em;">Séance 7 (le 8 Octobre): **Apprentissage Non supervisé**</span> 
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_unsupervised.pdf)
   * [Introduction to unsupervised learning](https://youtu.be/z_PcTBDHvOs) [8:17]
@@ -106,13 +106,16 @@ ___
   * [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week7-Unsupervised/Unsupervised_answers_fr.ipynb)
 
 ___
-8- <span style="font-size:1em;"> Semaine d'étude (le 18 Octobre): **pas de cours** </span> 
+8- <span style="font-size:1em;"> Semaine d'étude (le 15 Octobre): **pas de cours** </span> 
 
 ___
-9- <span style="font-size:1em;"> Proposition du projet(le 25 Octobre): **Rencontre en équipe à propos du projet**</span> 
+9- <span style="font-size:1em;"> Semaine d'étude (le 22 Octobre): **pas de cours** </span> 
+___
+
+10- <span style="font-size:1em;"> Proposition du projet(le 29 Octobre): **Rencontre en équipe à propos du projet**</span> 
 
 ___
-10- <span style="font-size:1em;">Séance 8 (le 1 Novembre): **Calcul parallèle pour données massives**</span>
+11- <span style="font-size:1em;">Séance 8 (le 12 Novembre): **Calcul parallèle pour données massives**</span>
 - **ATENTION:** 
   * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Capsules**: 
@@ -125,26 +128,20 @@ ___
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm-fr.pdf)
 
 ___
-11- <span style="font-size:1em;">Séance 9 (le 8 Novembre): **Systèmes de recommandations**</span> 
+12- <span style="font-size:1em;">Séance 9 (le 5 Novembre): **Systèmes de recommandations**</span> 
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
   * Référence (facultative)[Tutoriel sur les systèmes de recommandation](https://github.com/lcharlin/80-629/blob/master/week11-RecommenderSystems/Tutoriel-FR/SRMF%20-%20Questions.ipynb)
 
 ___
-12- <span style="font-size:1em;">Séance 10 (le 15 Novembre): **Prise de décision séquentielle I**</span> 
-- **Capsules**: 
-  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl.pdf)
-  * [Motivating RL](https://youtu.be/V2WrKWyiPoQ) [8:22]
-  * [Planning with MDPs](https://youtu.be/FwQQCSL5I_Y) [12:16]
-  * [MDP objective](https://youtu.be/3vX-J61A8NQ) [14:16]
-  * [Algorithms for solving MDPs](https://youtu.be/HBTyOjt4QBk) [17:51]: Note: In this capsule, there is a mistake in the second equation of the policy iteration algorithm (the transition should be given a and not π(s)), the slides have been corrected (see slides 47 and 48)
-
-- **Lecture facultatif**: Optional: [Démonstration de l'algorithme policy iteration](https://www.cs.toronto.edu/~lcharlin/courses/60629/reinforcejs/gridworld_dp.html) (de Andrej Karpathy)
+13- <span style="font-size:1em;">Séance 10 (le 19 Novembre): **Attention et transformeurs**</span> 
+  * Sera présenté en classe.
+  * Lecture complémentaire : [Introduction aux transformeurs](https://arxiv.org/pdf/2304.10557)
 
 
 ___
-13- <span style="font-size:1em;">Séance 11 (le 22 Novembre): **Prise de décision séquentielle II**</span> 
+13- <span style="font-size:1em;">Séance 11 (le 26 Novembre): **Prise de décision séquentielle II**</span> 
 - **Lecture**: 
 - **Capsules**: 
   * [Dapo](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
@@ -159,7 +156,7 @@ ___
 - **Exercice**: [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Questions-fr.ipynb), [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution-fr.ipynb)
 
 ___
-14- <span style="font-size:1em;">Présentations des projets(le 29 Novembre): **Poster**</span>
+14- <span style="font-size:1em;">Présentations des projets(le 3 Décembre): **Poster**</span>
 * Local: à communiquer
 
 
