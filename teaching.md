@@ -3,6 +3,9 @@
 
 # Teaching 
  I have had the privilege of being a course lecturer at HEC Montreal since 2017. In the sections below, you'll discover the specifics of the courses I have had the pleasure of teaching
+**Machine Learning 1 (Fall 2025), HEC Montreal, in French**
+
+- You can find the details of cours at the [Apprentissage automatique I ](courses/60629_A2025/main.md).
 
 **Data Mining (Winter 2025), HEC Montreal**
 
