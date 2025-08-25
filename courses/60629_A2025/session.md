@@ -136,12 +136,12 @@ ___
 
 ___
 13- <span style="font-size:1em;">Séance 10 (le 19 Novembre): **Attention et transformeurs**</span> 
-  * Sera présenté en classe.
-  * Lecture complémentaire : [Introduction aux transformeurs](https://arxiv.org/pdf/2304.10557)
+- **Sera présenté en classe.**
+- **Lecture complémentaire** : [Introduction aux transformeurs](https://arxiv.org/pdf/2304.10557)
 
 
 ___
-13- <span style="font-size:1em;">Séance 11 (le 26 Novembre): **Prise de décision séquentielle II**</span> 
+14- <span style="font-size:1em;">Séance 11 (le 26 Novembre): **Prise de décision séquentielle II**</span> 
 - **Lecture**: 
 - **Capsules**: 
   * [Dapo](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
@@ -156,7 +156,7 @@ ___
 - **Exercice**: [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Questions-fr.ipynb), [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution-fr.ipynb)
 
 ___
-14- <span style="font-size:1em;">Présentations des projets(le 3 Décembre): **Poster**</span>
+15- <span style="font-size:1em;">Présentations des projets(le 3 Décembre): **Poster**</span>
 * Local: à communiquer
 
 
