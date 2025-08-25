@@ -138,22 +138,15 @@ ___
 13- <span style="font-size:1em;">Séance 10 (le 19 Novembre): **Attention et transformeurs**</span> 
 - **Sera présenté en classe.**
 - **Lecture complémentaire** : [Introduction aux transformeurs](https://arxiv.org/pdf/2304.10557)
+- **Matériel pour la classe:**:  
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_transformers.pdf)
 
 
 ___
-14- <span style="font-size:1em;">Séance 11 (le 26 Novembre): **Prise de décision séquentielle II**</span> 
-- **Lecture**: 
-- **Capsules**: 
-  * [Dapo](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_rl2.pdf)
-  * [Introduction to RL](https://www.youtube.com/watch?v=VnZ4558bXys) [13:31]
-  * [A first RL algorithm](https://www.youtube.com/watch?v=EYeACgMxHVk) [17:13]
-  * [RL Algorithms for Control](https://www.youtube.com/watch?v=PeGnFc5S-f4) [21:10]
-
-- **Lectures obligatoires**: Sections 1 à 4 de cet [Article](https://www.jair.org/index.php/jair/article/download/10166/24110/), 
-- **Lectures complementaires**:  Chapiters 1,3,4, et 6 de [Livre](http://incompleteideas.net/book/the-book.html). 
-- **Lectures facultatif**: [Demo of the TD algorithm](https://www.cs.toronto.edu/~lcharlin/courses/80-629/reinforcejs/gridworld_td.html) (de Andrej Karpathy)
-- **Sommaire**: [Lien](colab.research.google.com/drive/1nwsuHsv2f_Ac151dtOegoTiXRk65Cjr0#scrollTo=Z_LTBtfMBvW_&uniqifier=1)
-- **Exercice**: [Exercices](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Questions-fr.ipynb), [Solution](https://colab.research.google.com/github/lcharlin/80-629/blob/master/week13-RL/Monte_Carlo_Solution-fr.ipynb)
+14- <span style="font-size:1em;">Séance 11 (le 26 Novembre): **Modèles génératifs modernes**</span> 
+- **Sera présenté en classe.**
+- **Matériel pour la classe:**:  
+  * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_generatifs.pdf)
 
 ___
 15- <span style="font-size:1em;">Présentations des projets(le 3 Décembre): **Poster**</span>
