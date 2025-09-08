@@ -2,7 +2,7 @@
 
 # Honors and Awards 
   
-- **Award of Distinction – Honorable Mention** Statistical Society of Canada Conference for the quality of the paper and presentation (2025)
+- **Award of Distinction – Honorable Mention** for the quality of the paper presentation, Statistical Society of Canada Conference (SSC 2025)
 
 - **Travel fund** for AIES Conference (2025)
     
