@@ -5,15 +5,15 @@
 
 
  - **[Devoir]() (20%)**
-    - Date d'Échéance le **24 octobre** 2024 à 23h59.
+    - Date d'Échéance le **10 octobre** 2025 à 23h59.
     - Les devoirs comptent pour **20 %** de votre note finale.
     - Les devoirs doivent être réalisés dans Jupyter Notebook ou dans Google Colab .
-    - **Les devoirs doivent être effectués sur Google Colab [ici] <!-- (https://colab.research.google.com/drive/10S1rz7aA5B1TWZHAPR9UqoXNaiIA0GGi#scrollTo=2b3YoSN-iEEw)**. -->
+    - **Les devoirs doivent être effectués sur Google Colab [ici]  (https://colab.research.google.com/drive/1JJ6NYQLq-QVm-Edwg9nNWlcPm9E3dppO?usp=sharing)**.
     
     - **Instructions** :
-        <!-- - Veuillez m'envoyer un courriel contenant une version PDF de votre devoir et insérez le lien partageable vers votre cahier. -->
+        - La remise du devoir se fera sur ZoneCours.
         - Les devoirs doivent être complétés individuellement.
-            - La discussion avec d'autres personnes est autorisée, mais vous devez rédiger vos solutions vous-même.
+        - La discussion avec d'autres personnes est autorisée, mais vous devez rédiger vos solutions vous-même.
         - Tout code utilisé pour arriver aux réponses doit être soumis en même temps que les réponses.
         - **Notes** :
             - Veuillez fournir vos réponses en code dans le bloc de code sous chaque question, et les réponses verbales dans les zones de texte assignées dans le cahier (si applicable).
