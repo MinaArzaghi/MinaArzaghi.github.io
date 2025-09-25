@@ -8,7 +8,7 @@
     - Date d'Échéance le **10 octobre** 2025 à 23h59.
     - Les devoirs comptent pour **20 %** de votre note finale.
     - Les devoirs doivent être réalisés dans Jupyter Notebook ou dans Google Colab .
-    - **Les devoirs doivent être effectués sur Google Colab [ici]  (https://colab.research.google.com/drive/1JJ6NYQLq-QVm-Edwg9nNWlcPm9E3dppO?usp=sharing)**.
+    - **Les devoirs doivent être effectués sur Google Colab [ici](https://colab.research.google.com/drive/1JJ6NYQLq-QVm-Edwg9nNWlcPm9E3dppO?usp=sharing).**
     
     - **Instructions** :
         - La remise du devoir se fera sur ZoneCours.
