@@ -2,7 +2,7 @@
 
 # Honors and Awards 
 - **Travel fund** for WiML workshop NeurIPS (2025)
-- 
+
 - **Travel fund** for FAccT Conference (2025)
   
 - **Award of Distinction – Honorable Mention** for the quality of the paper presentation, Statistical Society of Canada Conference (SSC 2025)
