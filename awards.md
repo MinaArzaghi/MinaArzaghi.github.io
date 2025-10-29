@@ -1,17 +1,17 @@
 | [Home](index.md) || [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
 
 # Honors and Awards 
-- **Travel fund** for WiML workshop NeurIPS (2025)
+- **Travel fund** for WiML Workshop @ NeurIPS (2025)
 
-- **Travel fund** for FAccT Conference (2025)
+- **Travel fund** for ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025)
   
 - **Award of Distinction – Honorable Mention** for the quality of the paper presentation, Statistical Society of Canada Conference (SSC 2025)
 
-- **Travel fund** for AIES Conference (2025)
+- **Travel fund** for AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)
     
-- **Travel fund** for WiML workshop NeurIPS (2024)
+- **Travel fund** for WiML Workshop @ NeurIPS (2024)
 
-- **Travel fund** for AIES Conference (2024)
+- **Travel fund** for AAAI/ACM Conference on AI, Ethics, and Society (AIES 2024)
   
 - **Excellence Award in Teaching** for Teaching Machine Learning Course, PhD Program of HEC Montreal (2023)
   
