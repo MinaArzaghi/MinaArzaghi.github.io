@@ -115,7 +115,7 @@ ___
 10- <span style="font-size:1em;"> Proposition du projet(le 29 Octobre): **Rencontre en équipe à propos du projet**</span> 
 
 ___
-11- <span style="font-size:1em;">Séance 8 (le 12 Novembre): **Calcul parallèle pour données massives**</span>
+11- <span style="font-size:1em;">Séance 8 (le 5 Novembre): **Calcul parallèle pour données massives**</span>
 - **ATENTION:** 
   * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Capsules**: 
@@ -128,7 +128,7 @@ ___
   * [Résumé](https://www.cs.toronto.edu/~lcharlin/courses/60629/summary-midterm-fr.pdf)
 
 ___
-12- <span style="font-size:1em;">Séance 9 (le 5 Novembre): **Systèmes de recommandations**</span> 
+12- <span style="font-size:1em;">Séance 9 (le 12 Novembre): **Systèmes de recommandations**</span> 
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
@@ -149,7 +149,7 @@ ___
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_generatifs.pdf)
 
 ___
-15- <span style="font-size:1em;">Présentations des projets(le 3 Décembre): **Poster**</span>
+15- <span style="font-size:1em;">Présentations des projets(le 28 novembre 2025 entre 15h30 et 18h30)): **Poster**</span>
 * Local: à communiquer
 
 
