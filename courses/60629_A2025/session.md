@@ -116,8 +116,7 @@ ___
 
 ___
 11- <span style="font-size:1em;">Séance 8 (le 5 Novembre): **Calcul parallèle pour données massives**</span>
-- **ATENTION:** 
-  * Cette séance ne sera pas donnée en pédagogie inversée.
+
 - **Capsules**: 
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/slides_largeScale.pdf)
   * [Introduction to Distributed Computing for ML](https://youtu.be/CtYOBS9pDvg) [19:35]
@@ -129,6 +128,8 @@ ___
 
 ___
 12- <span style="font-size:1em;">Séance 9 (le 12 Novembre): **Systèmes de recommandations**</span> 
+- **ATENTION:** 
+  * Cette séance ne sera pas donnée en pédagogie inversée.
 - **Lecture obligatoire**: [Présentation du cas et du dérolement de la séance](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-preparation.pdf) et réponse à la Question 1 à remettre la veille du cours au plus tard)
 - **Matériel pour la classe:**:  
   * [Diapos](https://www.cs.toronto.edu/~lcharlin/courses/60629/cas_Decathlon-diapos.pdf)
