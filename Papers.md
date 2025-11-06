@@ -9,7 +9,7 @@
   🎖️ Received **Honourable Mention** at the **SSC 2025 Annual Meeting** (Business & Industrial Statistics Section).  
   📄 [Read the full paper](https://doi.org/10.1609/aies.v7i1.31616)
 
-- **Mina Arzaghi, Jean-François Plante, and Golnoosh Farnadi**  
+- **Mina Arzaghi**  
   *“Advancing Fairness in Generative AI Through Intrinsic and Extrinsic Bias Evaluation and Mitigation”*  
    Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 8 No.3, 2025.  
   🏆 Presented at AAAI/ACM Conference on AI, Ethics, and Society **AIES 2025**.   
