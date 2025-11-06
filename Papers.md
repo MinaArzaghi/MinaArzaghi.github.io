@@ -1,56 +1,24 @@
 | [Home](index.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
+## Publications
 
-<section id="papers">
-  <h2>Publications</h2>
-  <ul>
-    <li>
-      <strong>Arzaghi, Mina, Florian Carichon, and Golnoosh Farnadi.</strong>
-      <em>“Understanding Intrinsic Socioeconomic Biases in Large Language Models.”</em>
-      Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 7, 2024.
-      <br>
-      🏆 Presented at <strong>AIES 2024</strong> and the <strong>WiML Workshop @ NeurIPS 2024</strong>.
-      <br>
-      🎖️ Received <strong>Honourable Mention</strong> at the <strong>SSC 2025 Annual Meeting</strong> (Business & Industrial Statistics Section).
-      <br>
-      📄 <a href="https://doi.org/10.1609/aies.v7i1.31616" target="_blank" rel="noopener">Read the full paper</a>
-    </li>
+- **Mina Arzaghi, Florian Carichon, and Golnoosh Farnadi.**  
+  *“Understanding Intrinsic Socioeconomic Biases in Large Language Models.”*  
+  Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 7, 2024.  
+  🏆 Presented at AAAI/ACM Conference on AI, Ethics, and Society **AIES 2024**
+  🏆 Presented at the Women in Machine Learning Workshop **WiML Workshop @ NeurIPS 2024**.  
+  🎖️ Received **Honourable Mention** at the **SSC 2025 Annual Meeting** (Business & Industrial Statistics Section).  
+  📄 [Read the full paper](https://doi.org/10.1609/aies.v7i1.31616)
 
-    <li>
-      <strong>Arzaghi, Mina, and Golnoosh Farnadi.</strong>
-      <em>“Unlearning Socioeconomic Stereotypes in Large Language Models: From Representation to Decision.”</em>
-      Under review at <strong>EMNLP 2025</strong>.
-      <br>
-      🌱 Introduces a unified unlearning framework to mitigate socioeconomic bias at both embedding and output levels.
-      <br>
-      📄 <a href="#" target="_blank" rel="noopener">Preprint coming soon</a>
-    </li>
+- **Mina Arzaghi, Jean-François Plante, Golnoosh Farnadi**  
+  *“Advancing Fairness in Generative AI Through Intrinsic and Extrinsic Bias Evaluation and Mitigation”*  
+   Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 8 No.3, 2025.  
+  🏆 Presented at AAAI/ACM Conference on AI, Ethics, and Society **AIES 2025**
+  🏆 Presented at ACM Conference on Fairness, Accountability, and Transparency **ACM FAccT 2025**
 
-    <li>
-      <strong>Arzaghi, Mina, Florian Carichon, and Golnoosh Farnadi.</strong>
-      <em>“Intrinsic vs. Extrinsic Bias: A Unified Evaluation Framework for LLM Fairness.”</em>
-      In preparation for submission to <strong>AAAI 2026</strong>.
-      <br>
-      ⚖️ Proposes a benchmark connecting intrinsic bias measures (stereotype probes) and extrinsic fairness metrics.
-      <br>
-      📄 <a href="#" target="_blank" rel="noopener">Project page</a>
-    </li>
+- **Mina Arzaghi, Alireza Dehghanpour Farashah, Florian Carichon, and Golnoosh Farnadi.**  
+  *“Intrinsic Meets Extrinsic Fairness: Assessing the Downstream Impact of Bias Mitigation in Large Language Models”*  
+  <!-- 🏆 Presented at the Women in Machine Learning Workshop <strong>WiML Workshop @ NeurIPS 2025</strong>. -->
 
-    <li>
-      <strong>Arzaghi, Mina, Gabriel Pigeon, and Wassila Ouerdane.</strong>
-      <em>“AI-Driven Metadata Quality and Classification for Urban Resilience Data Portals.”</em>
-      Presented at <strong>IRIU Open Data Symposium 2025</strong>.
-      <br>
-      🌍 Demonstrates a CKAN-integrated AI system for assessing and improving open-data metadata completeness.
-      <br>
-      📄 <a href="#" target="_blank" rel="noopener">View presentation</a>
-    </li>
-  </ul>
+📚 See all my publications on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=R0zgZZ0AAAAJ).
 
-  <p>
-    📚 See all my publications on
-    <a href="https://scholar.google.ca/citations?hl=en&user=R0zgZZ0AAAAJ" target="_blank" rel="noopener">
-      Google Scholar
-    </a>.
-  </p>
-</section>
 
