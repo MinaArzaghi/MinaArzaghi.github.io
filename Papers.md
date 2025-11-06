@@ -1,7 +1,7 @@
 | [Home](index.md) | | [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
 ## Publications
 
-- **Mina Arzaghi, Florian Carichon, and Golnoosh Farnadi.**  
+- **Mina Arzaghi, Florian Carichon, and Golnoosh Farnadi**  
   *“Understanding Intrinsic Socioeconomic Biases in Large Language Models.”*  
   Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, Vol. 7, 2024.  
   🏆 Presented at AAAI/ACM Conference on AI, Ethics, and Society **AIES 2024**.   
@@ -16,7 +16,7 @@
   🏆 Presented at ACM Conference on Fairness, Accountability, and Transparency **ACM FAccT 2025**.     
   📄 [Read the full paper](https://ojs.aaai.org/index.php/AIES/article/view/36764)
 
-- **Mina Arzaghi, Alireza Dehghanpour Farashah, Florian Carichon, and Golnoosh Farnadi.**  
+- **Mina Arzaghi, Alireza Dehghanpour Farashah, Florian Carichon, and Golnoosh Farnadi**  
   *“Intrinsic Meets Extrinsic Fairness: Assessing the Downstream Impact of Bias Mitigation in Large Language Models”*  <!-- 🏆 Presented at the Women in Machine Learning Workshop <strong>WiML Workshop @ NeurIPS 2025</strong>. -->   
   📄 [Read the full paper](https://arxiv.org/abs/2509.16462)
 
