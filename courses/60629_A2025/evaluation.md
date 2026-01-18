@@ -72,7 +72,7 @@
         - Exactitude : **2 %**
         - Réponses aux questions : **3 %**
 
-- **Examen final (30%)**
+- **Examen final (40%)**
     - Consultez HEC Enligne pour les details
     - Ancien examen final: [Fall 2018](https://davoodwadi.github.io/exam_80629_A18.pdf)
 
