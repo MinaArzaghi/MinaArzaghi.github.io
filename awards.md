@@ -1,13 +1,14 @@
 | [Home](index.md) || [Teaching](teaching.md) | | [Awards](awards.md) | [Publications](Papers.md) | 
 
 # Honors and Awards 
+
 - **Travel fund** for WiML Workshop @ NeurIPS (2025)
+  
+- **Travel fund** for AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)
 
 - **Travel fund** for ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025)
   
 - **Award of Distinction – Honorable Mention** for the quality of the paper presentation, Statistical Society of Canada Conference (SSC 2025)
-
-- **Travel fund** for AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)
     
 - **Travel fund** for WiML Workshop @ NeurIPS (2024)
 
