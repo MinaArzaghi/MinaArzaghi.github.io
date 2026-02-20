@@ -23,6 +23,4 @@
 📚 See all my publications on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=R0zgZZ0AAAAJ).
 
 
-# Revewer of :
-# ICLR 2026 Workshop AFAA
-# IEEE 2025 Jornal
+
