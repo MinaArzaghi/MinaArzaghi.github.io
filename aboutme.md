@@ -20,6 +20,6 @@ My journey in the world of Data Science extends beyond research and into educati
 
 ## Connect with Me
 
-I am always excited to collaborate, share knowledge, and learn from others in the field of Data Science and beyond. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/your-profile) to discuss research, projects, or any shared interests.
+I am always excited to collaborate, share knowledge, and learn from others in the field of Data Science and beyond. Feel free to reach out to me through [LinkedIn](https://linkedin.com/in/minaarzaghi) to discuss research, projects, or any shared interests.
 
 Thank you for visiting my profile, and I look forward to connecting with you!
